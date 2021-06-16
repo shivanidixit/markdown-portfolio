@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# This is the list of cities :
+- _MUMBAI_
+- _DELHI_
+- __HYDERABAD__
+- __PUNE__
+- _INDORE_
+- ___UJJAIN___
