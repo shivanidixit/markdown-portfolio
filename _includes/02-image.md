@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile_image](https://carrollcountyagcenter.com/wp-content/uploads/2020/01/Hot-Air-Balloons.jpg)
